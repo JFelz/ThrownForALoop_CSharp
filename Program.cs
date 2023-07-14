@@ -12,4 +12,4 @@ while (string.IsNullOrWhiteSpace(response))
     Console.WriteLine("Try Again! Please Enter A Response!");
     response = Console.ReadLine().Trim();
 }
-    Console.WriteLine($"You chose: {response}");
+    Console.WriteLine($"You respectfully chose: {response}");
